@@ -1,7 +1,7 @@
 # **<h1 align="center">MinGW Yükleme</h1>**
 
 # MinGW nedir ? 
-MinGW; C/c++, Fortran ve Ada gibi dil derleyicilerini içeren GCC Derleyici Paketinin Windows üzerinde çalışan versiyonudur.
+MinGW; C/C++, Fortran ve Ada gibi dil derleyicilerini içeren GCC Derleyici Paketinin Windows üzerinde çalışan versiyonudur.
 
 # MinGW kurulumu: 
 ## 1- [Sourceforge](https://sourceforge.net/projects/mingw/) sitesine gidiyoruz ve MinGW indiriyoruz.
